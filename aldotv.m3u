@@ -2,6 +2,17 @@
 
 
 # ===== SLOVENIJA =====
+#EXTINF:-1 group-title="Slovenija",TV SLO 1
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
+
+#EXTINF:-1 group-title="Slovenija",TV SLO 2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+
+#EXTINF:-1 group-title="Slovenija",TV SLO 3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+
+#EXTINF:-1 group-title="Slovenija",TV Maribor
+https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 # ===== HRVAŠKA =====
 # ===== SRBIJA =====
 # ===== BOSNA IN HERCEGOVINA =====
